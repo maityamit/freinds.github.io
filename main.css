@@ -52,3 +52,17 @@
     box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2), 0 6px 20px 0 rgba(0,0,0,0.19);
   
   }
+
+  .fa {
+    padding: 5px;
+    font-size: 10px;
+    width: 30px;
+    text-align: center;
+    text-decoration: none;
+    margin: 5px 2px;
+  }
+
+  .fa-instagram {
+    background: #5d83fd;
+    color: white;
+  }
