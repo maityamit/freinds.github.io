@@ -6,7 +6,7 @@ Freinds of Schoolwebsite 📱 built using HTML , CSS , JS and showing best pract
 
 # See the Website
 
-See Website [Here](https://maityamit.github.io/wbchse_hs.github.io)
+See Website [Here](https://maityamit.github.io/freinds.github.io)
 
 ## 📸 Screenshots
 
