@@ -63,6 +63,11 @@
   }
 
   .fa-instagram {
+    background: #df703c;
+    color: white;
+  }
+
+  .fa-facebook {
     background: #5d83fd;
     color: white;
   }
