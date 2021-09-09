@@ -23,13 +23,34 @@
   }
 
 .card .name{
-    font-size: 20px;
+    font-size: 23px;
     font-weight: 500;
   }
-  .card .job{
-    font-size: 13px;
+  .card .course{
+    font-size: 15px;
     font-style: normal;
+    vertical-align: middle;
+  justify-content: center;
+  display: flex;
+    text-align: center;
     color: #FF676D;
+  }
+  .card .college{
+    font-size: 16px;
+    font-style: normal;
+  justify-content: center;
+  display: flex;
+    text-align: center;
+    color: #130d0d;
+  }
+
+  .card .year{
+    font-size: 12px;
+    font-style: normal;
+  justify-content: center;
+  display: flex;
+    text-align: center;
+    color: #164fee;
   }
 
   .card{
@@ -42,7 +63,7 @@
     text-decoration: none;
     margin-top: 5px;
     margin-bottom: 20px;
-    width: 220px;
+    width: 300px;
     cursor:pointer;
     margin-left: 20px;
     margin-right: 20px;
