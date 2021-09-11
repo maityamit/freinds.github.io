@@ -1,17 +1,14 @@
 ## 🖐 Freinds of School  (WebSite)
-### Freinds of Schoolwebsite 📱 built using HTML , CSS , JS and showing best practices of 🛠️
-
-<br>
-
+ Freinds of Schoolwebsite 📱 built using HTML , CSS , JS and showing best practices of 🛠️
 
 ## 🌐 See the Website
 
-### See Website [Link 🔗](https://maityamit.github.io/freinds.github.io)
+See Website [Link 🔗](https://maityamit.github.io/freinds.github.io)
 
 ## ⚙️ Technology Used
 
  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank">  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="javascript" width="40" height="40"/> </a> </p>
-<br>
+
 
 ## 📸 Screenshots
 
@@ -20,7 +17,6 @@
 | ![Imgur](Images/1.jpg) | ![Imgur](Images/2.jpg) | 
 
 
-<br>
 
 <h2 align="center">📝 Created by </h2>
 
